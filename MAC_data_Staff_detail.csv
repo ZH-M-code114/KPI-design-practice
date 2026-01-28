@@ -1,0 +1,79 @@
+HR ID;Name;Surname;Skill;Level;Avg daily rate €;Length of service (years);Annual Gross Salary (k€);Entry date;End date;Reason for leaving;1/25;2/25;3/25;4/25;5/25;6/25;7/25;8/25;9/25;10/25;11/25;12/25
+C001;Dubois;Marc;Embedded Dev (C/C++);Senior;520;15.2;78;01/09/2010;31/07/2025;Retirement;1;1;1;1;1;1;1;;;;;
+C002;Martin;Pierre;Embedded Dev (C/C++);Senior;500;12;72;01/01/2014;-;-;1;1;1;1;1;1;1;1;1;1;1;1
+C003;Bernard;Jean;Embedded Dev (C/C++);Senior;490;14;75;01/01/2012;-;-;1;1;1;1;1;1;1;1;1;1;1;1
+C004;Petit;François;Embedded Dev (C/C++);Senior;480;10;68;01/01/2016;-;-;1;1;1;1;1;1;1;1;1;1;1;1
+C005;Robert;Alain;Embedded Dev (C/C++);Senior;510;13;74;01/01/2013;-;-;1;1;1;1;1;1;1;1;1;1;1;1
+C006;Richard;Philippe;Embedded Dev (C/C++);Senior;470;11;70;01/01/2015;-;-;1;1;1;1;1;1;1;1;1;1;1;1
+C007;Durand;Michel;Embedded Dev (C/C++);Senior;480;12;71;01/01/2014;-;-;1;1;1;1;1;1;1;1;1;1;1;1
+C008;Moreau;Claude;Embedded Dev (C/C++);Senior;490;14;76;01/01/2012;-;-;1;1;1;1;1;1;1;1;1;1;1;1
+C009;Laurent;Patrick;Embedded Dev (C/C++);Senior;460;9;66;01/01/2017;-;-;1;1;1;1;1;1;1;1;1;1;1;1
+C010;Simon;Gérard;Embedded Dev (C/C++);Senior;500;28,5;82;01/07/1997;28/02/2025;Retirement;1;1;;;;;;;;;;
+C011;Lefebvre;Daniel;Embedded Dev (C/C++);Intermediate;450;7;55;01/01/2019;-;-;1;1;1;1;1;1;1;1;1;1;1;1
+C012;Leroy;Christian;Embedded Dev (C/C++);Intermediate;440;6;52;01/01/2020;-;-;1;1;1;1;1;1;1;1;1;1;1;1
+C013;Roux;André;Embedded Dev (C/C++);Intermediate;460;8;57;01/01/2018;-;-;1;1;1;1;1;1;1;1;1;1;1;1
+C014;Garnier;Olivier;Embedded Dev (C/C++);Senior;480;11;69;01/01/2015;-;-;1;1;1;1;1;1;1;1;1;1;1;1
+C015;Faure;Éric;Embedded Dev (C/C++);Senior;490;12;72;01/01/2014;-;-;1;1;1;1;1;1;1;1;1;1;1;1
+C016;Blanc;Julien;Embedded Dev (C/C++);Senior;470;10;67;01/01/2016;-;-;1;1;1;1;1;1;1;1;1;1;1;1
+C017;Bonnet;Sébastien;Embedded Dev (C/C++);Junior;480;2,3;42;01/10/2023;30/11/2025;Fixed-term contract end;1;1;1;1;1;1;1;1;1;1;1;
+C018;Rousseau;Thierry;Embedded Dev (C/C++);Junior;500;1,8;40;01/03/2024;31/12/2025;Fixed-term contract end;1;1;1;1;1;1;1;1;1;1;1;1
+C019;Vincent;Laurent;Java/JEE;Intermediate;420;5;50;01/01/2021;-;-;1;1;1;1;1;1;1;1;1;1;1;1
+C020;Muller;Nicolas;Java/JEE;Intermediate;410;4;48;01/01/2022;-;-;1;1;1;1;1;1;1;1;1;1;1;1
+C021;Lefevre;David;Java/JEE;Intermediate;430;6;53;01/01/2020;-;-;1;1;1;1;1;1;1;1;1;1;1;1
+C022;Fontaine;Christophe;Java/JEE;Senior;420;7,2;64;01/09/2018;30/06/2025;Burn-out;1;1;1;1;1;1;;;;;;
+C023;Chevalier;Guillaume;Java/JEE;Intermediate;440;7;55;01/01/2019;-;-;1;1;1;1;1;1;1;1;1;1;1;1
+C024;Lambert;Alexandre;Java/JEE;Intermediate;410;4;48;01/01/2022;-;-;1;1;1;1;1;1;1;1;1;1;1;1
+C025;Girard;Maxime;Java/JEE;Junior;380;1,2;38;01/11/2024;31/05/2025;Atmosphere;1;1;1;1;1;;;;;;;
+C026;Dupuis;Thomas;Java/JEE;Intermediate;430;6;52;01/01/2020;-;-;1;1;1;1;1;1;1;1;1;1;1;1
+C027;Mercier;Benjamin;Java/JEE;Intermediate;420;5;50;01/01/2021;-;-;1;1;1;1;1;1;1;1;1;1;1;1
+C028;Arnaud;Matthieu;Java/JEE;Intermediate;480;10;62;01/01/2016;-;-;1;1;1;1;1;1;1;1;1;1;1;1
+C029;Gautier;Florian;Java/JEE;Junior;410;0,9;36;01/02/2025;31/08/2025;Atmosphere;1;1;1;1;1;1;1;1;;;;
+C030;Perrin;Hugo;Java/JEE;Intermediate;420;5;51;01/01/2021;-;-;1;1;1;1;1;1;1;1;1;1;1;1
+C031;Morel;Lucas;DevOps/Cloud;Intermediate;480;3,2;54;01/11/2022;31/03/2025;External opportunity;1;1;1;;;;;;;;;
+C032;Robin;Nathan;DevOps/Cloud;Intermediate;540;4,5;58;01/07/2021;30/06/2025;External opportunity;1;1;1;1;1;1;;;;;;
+C033;Clement;Theo;DevOps/Cloud;Junior;530;2,1;46;01/12/2023;31/10/2025;External opportunity;1;1;1;1;1;1;1;1;1;1;;
+C034;Gauthier;Louis;DevOps/Cloud;Intermediate;500;1;44;01/01/2025;-;-;1;1;1;1;1;1;1;1;1;1;1;1
+C035;Denis;Arnaud;DevOps/Cloud;Intermediate;550;5;60;01/01/2021;-;-;1;1;1;1;1;1;1;1;1;1;1;1
+C036;Lopez;Marie;Data Engineering;Senior;600;5,8;68;01/03/2020;30/04/2025;Personal project;1;1;1;1;;;;;;;;
+C037;Martinez;Sophie;Data Engineering;Senior;580;8;72;01/01/2018;-;-;1;1;1;1;1;1;1;1;1;1;1;1
+C038;Garcia;Julie;Data Engineering;Senior;570;3,9;62;01/02/2022;30/09/2025;Personal project;1;1;1;1;1;1;1;1;1;;;
+C039;Rodriguez;Laura;Data Engineering;Senior;570;8;71;01/01/2018;-;-;1;1;1;1;1;1;1;1;1;1;1;1
+C040;Sanchez;Emma;AI/ML;Junior;530;1;42;01/01/2025;-;-;1;1;1;1;1;1;1;1;1;1;1;1
+C041;Fernandez;Léa;AI/ML;Junior;560;2;45;01/01/2024;-;-;1;1;1;1;1;1;1;1;1;1;1;1
+C042;Moreno;Chloé;AI/ML;Junior;550;1;43;01/01/2025;-;-;1;1;1;1;1;1;1;1;1;1;1;1
+C043;Gonzalez;Camille;AI/ML;Junior;560;2;44;01/01/2024;-;-;1;1;1;1;1;1;1;1;1;1;1;1
+C044;Perez;Alexis;Frontend (React/Vue);Intermediate;450;4;50;01/01/2022;-;-;1;1;1;1;1;1;1;1;1;1;1;1
+C045;Sanchez;Romain;Frontend (React/Vue);Intermediate;440;3;48;01/01/2023;-;-;1;1;1;1;1;1;1;1;1;1;1;1
+C046;Ramirez;Kevin;Frontend (React/Vue);Intermediate;460;5;52;01/01/2021;-;-;1;1;1;1;1;1;1;1;1;1;1;1
+C047;Torres;Dylan;Frontend (React/Vue);Intermediate;450;4,8;51;01/03/2021;30/09/2025;Burn-out;1;1;1;1;1;1;1;1;1;;;
+C048;Flores;Quentin;Frontend (React/Vue);Junior;420;2;44;01/01/2024;-;-;1;1;1;1;1;1;1;1;1;1;1;1
+C049;Rivera;Maxence;Frontend (React/Vue);Intermediate;460;5;53;01/01/2021;-;-;1;1;1;1;1;1;1;1;1;1;1;1
+C050;Gomez;Valentin;Frontend (React/Vue);Intermediate;450;4;49;01/01/2022;-;-;1;1;1;1;1;1;1;1;1;1;1;1
+C051;Diaz;Anthony;Frontend (React/Vue);Intermediate;470;6;54;01/01/2020;-;-;1;1;1;1;1;1;1;1;1;1;1;1
+C052;Cruz;Stéphane;Cybersecurity;Senior;620;11;82;01/01/2015;-;-;1;1;1;1;1;1;1;1;1;1;1;1
+C053;Reyes;François-Xavier;Cybersecurity;Senior;620;10;80;01/01/2016;-;-;1;1;1;1;1;1;1;1;1;1;1;1
+C054;Ortiz;Isabelle;Project Manager;Senior;590;12;75;01/01/2014;-;-;1;1;1;1;1;1;1;1;1;1;1;1
+C055;Morales;Catherine;Project Manager;Senior;580;10;72;01/01/2016;-;-;1;1;1;1;1;1;1;1;1;1;1;1
+C056;Jimenez;Véronique;Project Manager;Senior;570;9;70;01/01/2017;-;-;1;1;1;1;1;1;1;1;1;1;1;1
+C057;Castillo;Nathalie;Project Manager;Senior;580;11;73;01/01/2015;-;-;1;1;1;1;1;1;1;1;1;1;1;1
+C058;Herrera;Sylvie;Project Manager;Senior;580;10;71;01/01/2016;-;-;1;1;1;1;1;1;1;1;1;1;1;1
+C059;Medina;Paul;Support/TMA;Junior;320;1;35;01/01/2025;-;-;1;1;1;1;1;1;1;1;1;1;1;1
+C060;Silva;Adrien;Support/TMA;Junior;310;1;34;01/01/2025;-;-;1;1;1;1;1;1;1;1;1;1;1;1
+C061;Castro;Julien;Support/TMA;Junior;330;2;37;01/01/2024;-;-;1;1;1;1;1;1;1;1;1;1;1;1
+C062;Vargas;Vincent;Support/TMA;Junior;320;1;36;01/01/2025;-;-;1;1;1;1;1;1;1;1;1;1;1;1
+C063;Lacroix;Antoine;Embedded Dev (C/C++);Intermediate;460;-;48;01/04/2025;-;Remplace C010;;;;1;1;1;1;1;1;1;1;1
+C064;Noel;Sandrine;Embedded Dev (C/C++);Junior;440;-;40;01/10/2025;-;Remplace C001;;;;;;;;;;1;1;1
+C065;Giraud;Julien;Embedded Dev (C/C++);Junior;430;-;39;01/02/2026;-;Remplace C017;;1;1;1;1;1;1;1;1;1;1;1
+C066;Berger;Claire;Embedded Dev (C/C++);Junior;435;-;40;01/02/2026;-;Remplace C018;;1;1;1;1;1;1;1;1;1;1;1
+C067;Colin;Mathieu;DevOps/Cloud;Junior;500;-;46;01/05/2025;-;Remplace C031;;;;;1;1;1;1;1;1;1;1
+C068;Bourgeois;Sarah;DevOps/Cloud;Intermediate;530;-;52;01/08/2025;-;Remplace C032;;;;;;;;1;1;1;1;1
+C069;Blanchard;Tom;DevOps/Cloud;Junior;490;-;45;01/12/2025;-;Remplace C033;;;;;;;;;;;;1
+C070;Meunier;Alice;Data Engineering;Senior;590;-;66;01/06/2025;-;Remplace C036;;;;;;1;1;1;1;1;1;1
+C071;Barbier;Damien;Data Engineering;Intermediate;560;-;58;01/11/2025;-;Remplace C038;;;;;;;;;;;1;1
+C072;Rey;Pauline;Java/JEE;Junior;390;-;38;01/07/2025;-;Remplace C025;;;;;;;1;1;1;1;1;1
+C073;Henry;Marc;Java/JEE;Intermediate;430;-;50;01/09/2025;-;Remplace C022;;;;;;;;;1;1;1;1
+C074;Adam;Sophie;Java/JEE;Junior;385;-;37;01/10/2025;-;Remplace C029;;;;;;;;;;1;1;1
+C075;Bouvier;Lucas;Frontend (React/Vue);Intermediate;455;-;51;01/11/2025;-;Remplace C047;;;;;;;;;;;1;1
+C076;Carpentier;Julie;Sales;Intermediate;-;-;58;01/02/2026;-;Remplace S001;;1;1;1;1;1;1;1;1;1;1;1
+;;;;;;;;;;Staff;62;65;64;64;64;64;63;63;63;63;64;64
+;;;;;;;;;;moyenne;63,5833333333333;;;;;;;;;;;

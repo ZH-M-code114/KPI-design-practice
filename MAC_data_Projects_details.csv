@@ -1,0 +1,54 @@
+Corp;Tech;Project Name;Initial Budget (K€);Actual Budget (K€);Planned Margin (%);Actual Margin (%)
+ACTIA;DevOps/Cloud;Pipeline DevOps Embarqué;38,4;38,4;28 %;29 %
+ACTIA;Embedded Dev (C/C++);ECU Automotive AUTOSAR;62,50;67,2;26 %;20 %
+ACTIA;Java/JEE;Télématique Fleet Management;44,8;44,8;25 %;25 %
+ACTIA;Support/TMA;Support Diagnostic Véhicules;36,96;35,2;18 %;21 %
+AIRBUS;Cybersecurity;Cybersécurité Avionique;140;140;35 %;35 %
+AIRBUS;Data Engineering;Plateforme Maintenance Prédictive;186,15;195;25 %;22 %
+AIRBUS;DevOps/Cloud;Infrastructure Cloud Skywise;175,84;168;30 %;26 %
+AIRBUS;Embedded Dev (C/C++);Système de Navigation A350;280;280;28 %;18 %
+AIRBUS;Frontend (React/Vue);Cockpit Display Interface;152,15;145;32 %;35 %
+AIRBUS;Java/JEE;Portail Supplier Connect;224;224;26 %;21 %
+KINÉIS;DevOps/Cloud;Plateforme IoT Spatial;51,2;51,2;30 %;30 %
+KINÉIS;Embedded Dev (C/C++);Firmware Nanosatellites;89,6;89,6;32 %;32 %
+KINÉIS;Frontend (React/Vue);Dashboard Monitoring Constellation;36,67;38,4;35 %;31 %
+KINÉIS;Java/JEE;Ground Segment Backend;67,20;64;28 %;33 %
+LATÉCOÈRE;DevOps/Cloud;Pipeline CI/CD Industriel;71,42;76,8;29 %;19 %
+LATÉCOÈRE;Embedded Dev (C/C++);Calculateurs de Vol A320;128;128;27 %;27 %
+LATÉCOÈRE;Frontend (React/Vue);Interface Commandes Électriques;57,02;54,4;30 %;34 %
+LATÉCOÈRE;Java/JEE;Gestion Production Câblage;89,6;89,6;24 %;24 %
+LATÉCOÈRE;Project Manager;PMO Programme LEAP;48;48;22 %;-12 %
+PME A;Embedded Dev (C/C++);Module IoT Industriel;28,8;28,8;30 %;30 %
+PME A;Frontend (React/Vue);Interface Web Supervision;19,32;18,4;32 %;37 %
+PME A;Support/TMA;Support Applicatif;13,6;13,6;15 %;15 %
+PME B;DevOps/Cloud;Migration Cloud AWS;20,16;19,2;29 %;34 %
+PME B;Java/JEE;Application Gestion Stock;24,32;24,32;27 %;27 %
+PME B;Support/TMA;TMA Infrastructure;12,8;12,8;16 %;16 %
+PME C;Frontend (React/Vue);Portail Client React;21,46;22,48;33 %;28 %
+PME C;Java/JEE;API Backend Services;18;18;26 %;26 %
+PME C;Support/TMA;Support Maintenance;12;12;17 %;17 %
+PME D;Data Engineering;Dashboard Analytics;15,12;14,4;28 %;32 %
+PME D;Embedded Dev (C/C++);Firmware Capteurs;21,6;21,6;31 %;31 %
+PME D;Support/TMA;Assistance Technique;12;12;18 %;18 %
+PME E;DevOps/Cloud;Infrastructure Docker/K8s;13,16;14;30 %;19 %
+PME E;Java/JEE;Application Mobile Backend;19,52;19,52;25 %;25 %
+PME E;Support/TMA;TMA Applicative;10,84;10;16 %;24 %
+PME F;Embedded Dev (C/C++);Système Contrôle Embarqué;20,96;20,96;29 %;29 %
+PME F;Frontend (React/Vue);Interface Utilisateur Vue.js;12,60;12;31 %;35 %
+PME F;Support/TMA;Support Maintenance;8;8;15 %;15 %
+PME G;Embedded Dev (C/C++);Module Acquisition Données;17,12;17,12;30 %;30 %
+PME G;Java/JEE;Plateforme Web Java;11,16;12;24 %;18 %
+PME G;Support/TMA;Support Technique;8;8;17 %;17 %
+PME H;Cybersecurity;Cybersécurité Périmètre;19,32;18,4;36 %;42 %
+PME H;DevOps/Cloud;Migration Infrastructure Cloud;28,8;28,8;30 %;30 %
+PME H;Java/JEE;Projet ERP Custom;38,4;38,4;26 %;26 %
+PME H;Support/TMA;Support Applicatif;10,4;10,4;19 %;19 %
+SAFRAN;AI/ML;Maintenance Prédictive Turbines;88,90;84,8;33 %;38 %
+SAFRAN;DevOps/Cloud;Infrastructure Azure MRO;64,22;67,2;31 %;-10 %
+SAFRAN;Embedded Dev (C/C++);Contrôle Moteur LEAP-1A;96;96;29 %;29 %
+SAFRAN;Support/TMA;TMA Systèmes Propulsion;59,2;59,2;20 %;20 %
+THALES AVS;AI/ML;Vision Artificielle Défense;103,14;108;35 %;31 %
+THALES AVS;DevOps/Cloud;Infrastructure SecureCloud;96;96;32 %;-10 %
+THALES AVS;Embedded Dev (C/C++);Radar AESA Next-Gen;185;185;30 %;30 %
+THALES AVS;Java/JEE;Système Combat Management;148,94;142;28 %;31 %
+THALES AVS;Support/TMA;Support Systèmes Critiques;80,85;77;18 %;22 %
